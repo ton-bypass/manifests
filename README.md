@@ -1,2 +1,1 @@
-# manifests
-TON Bypass Public Manifests
+# TON Bypass Manifests
